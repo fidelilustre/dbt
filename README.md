@@ -1,2 +1,1 @@
-# dbt
-dbt projects
+# dbt content and notes
